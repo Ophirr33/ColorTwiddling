@@ -1,0 +1,5 @@
+.idea
+*.iml
+opencv
+out
+resources
